@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TechnoFront</string>
+    <string name="my_digital_name">Techno Front</string>
+    <string name="title_activity_main_actvity">MainActvity</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+</resources>

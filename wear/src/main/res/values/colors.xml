@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#000000</color>
+    <color name="colorNormal">#80000088</color>
+    <color name="colorAlert">#5e0600</color>
+    <color name="colorNotif">#80000088</color>
+    <color name="digital_text">#ffffff</color>
+</resources>
